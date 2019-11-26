@@ -3,9 +3,9 @@
         "automate" : {
             "stdout" : "false",
             "url" : "https://automate.automate-demo.com/data-collector/v0",
-            "token" : "IW7YLP48MhBMuz5eXuNFlhbxsoM=",
+            "token" : "UBGxihciQxp7BI37k80xJREdq3s=",
             "insecure" : true,
-            "node_name" : "Anthony",
+            "node_name" : "Anthony_Win_CLI",
             "node_uuid" : "anthony-1234",
             "environment" : "dev"
         }
