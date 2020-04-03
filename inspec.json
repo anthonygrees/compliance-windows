@@ -2,11 +2,11 @@
     "reporter" : {
         "automate" : {
             "stdout" : "false",
-            "url" : "https://automate.automate-demo.com/data-collector/v0",
+            "url" : "https://anthony-a2.chef-demo.com/data-collector/v0",
             "token" : "UBGxihciQxp7BI37k80xJREdq3s=",
             "insecure" : true,
             "node_name" : "Anthony_Win_CLI",
-            "node_uuid" : "anthony-1234",
+            "node_uuid" : "12345678-1234-1234-1234-123456789012",
             "environment" : "dev"
         }
     }
